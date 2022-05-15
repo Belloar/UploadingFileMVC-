@@ -1,0 +1,15 @@
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\bin\Debug\net6.0\FirstVisualStudioFolder.exe
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\bin\Debug\net6.0\FirstVisualStudioFolder.deps.json
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\bin\Debug\net6.0\FirstVisualStudioFolder.runtimeconfig.json
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\bin\Debug\net6.0\FirstVisualStudioFolder.dll
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\bin\Debug\net6.0\FirstVisualStudioFolder.pdb
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\obj\Debug\net6.0\FirstVisualStudioFolder.csproj.AssemblyReference.cache
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\obj\Debug\net6.0\FirstVisualStudioFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\obj\Debug\net6.0\FirstVisualStudioFolder.AssemblyInfoInputs.cache
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\obj\Debug\net6.0\FirstVisualStudioFolder.AssemblyInfo.cs
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\obj\Debug\net6.0\FirstVisualStudioFolder.csproj.CoreCompileInputs.cache
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\obj\Debug\net6.0\FirstVisualStudioFolder.dll
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\obj\Debug\net6.0\refint\FirstVisualStudioFolder.dll
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\obj\Debug\net6.0\FirstVisualStudioFolder.pdb
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\obj\Debug\net6.0\FirstVisualStudioFolder.genruntimeconfig.cache
+C:\Users\ABD'RAHMAN BELLO\source\repos\FirstVisualStudioFolder\FirstVisualStudioFolder\obj\Debug\net6.0\ref\FirstVisualStudioFolder.dll
