@@ -1,0 +1,20 @@
+﻿<div>
+    <p>Fill the form to add new user </p>
+    <form asp-action="AddUser" enctype="multipart/form-data">
+        <div>
+            <label>
+                Name
+            </label>
+            <input name="Name" type= "text" placeholder=" Enter your Name" required/>
+        </div>
+         <div>
+            <label>
+                Picture
+            </label>
+            <input name="file" type= "file"  placeholder=" Upload picture" />
+        </div>
+         <div>
+            <input type= "submit" value=" Submit" />
+        </div>
+    </form>
+</div>

@@ -1,0 +1,60 @@
+﻿@model IEnumerable<UploadingFileMVC.Models.User>;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome To The 1st WebApp</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Name
+                </th>
+                 <th>
+                    Email
+                </th>
+                <th>
+                    Details
+                </th>
+                <th>
+                    Update Details
+                </th>
+                <th>
+                    Delete User
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var user in Model)
+            {
+                <tr>
+                    <th>
+                        @user.Name
+                    </th>
+                    <th>
+                        @user.Picture
+                    </th>
+                    <th>
+                        <a asp-action="GetUser" asp-route-id="@user.Id">view details</a>
+                    </th>
+                     <th>
+                        <a asp-action="UpdateUser" asp-route-id="@user.Id">Update details</a>
+                    </th>
+                    <th>
+                        <a asp-action="DeleteUser" asp-route-id="@user.Id">Delete User</a>
+                    </th>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    <a asp-action= "CreateUser"> Create New User </a>
+</div>
+<div>
+    <a asp-action= "lecturer/LecturerIndex"> Go To Lecturer Page </a>
+</div>

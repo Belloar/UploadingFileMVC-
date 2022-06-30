@@ -1,0 +1,22 @@
+﻿@model User
+<div>
+    <p>Fill the form to update user </p>
+    <form asp-action="UpdateUser">
+        <div>
+            <label>
+                Name
+            </label>
+            <input name="Name" type= "text" value="@Model.Name" required/>
+        </div>
+         <div>
+            <label>
+                Picture
+            </label>
+            <input name="Picture" type= "file" value="@Model.Picture" required  />
+        </div>
+         <div>
+            
+            <input type= "submit" value=" Submit" />
+        </div>
+    </form>
+</div>
